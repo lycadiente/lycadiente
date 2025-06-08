@@ -1,4 +1,4 @@
 ## Hello!!
 
-# 🌱 Currently learning Github^^
+### 🌱 Currently learning Github^^
 
